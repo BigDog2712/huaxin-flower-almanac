@@ -1,0 +1,4 @@
+.tmp*
+.tmp-cdp/
+.DS_Store
+Thumbs.db
